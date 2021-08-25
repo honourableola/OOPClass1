@@ -1,0 +1,13 @@
+C:\Users\OLALEKAN\source\repos\OOPClass1\bin\Debug\netcoreapp3.1\OOPClass1.exe
+C:\Users\OLALEKAN\source\repos\OOPClass1\obj\Debug\netcoreapp3.1\OOPClass1.csprojAssemblyReference.cache
+C:\Users\OLALEKAN\source\repos\OOPClass1\obj\Debug\netcoreapp3.1\OOPClass1.AssemblyInfoInputs.cache
+C:\Users\OLALEKAN\source\repos\OOPClass1\obj\Debug\netcoreapp3.1\OOPClass1.AssemblyInfo.cs
+C:\Users\OLALEKAN\source\repos\OOPClass1\obj\Debug\netcoreapp3.1\OOPClass1.csproj.CoreCompileInputs.cache
+C:\Users\OLALEKAN\source\repos\OOPClass1\obj\Debug\netcoreapp3.1\OOPClass1.dll
+C:\Users\OLALEKAN\source\repos\OOPClass1\obj\Debug\netcoreapp3.1\OOPClass1.pdb
+C:\Users\OLALEKAN\source\repos\OOPClass1\bin\Debug\netcoreapp3.1\OOPClass1.deps.json
+C:\Users\OLALEKAN\source\repos\OOPClass1\bin\Debug\netcoreapp3.1\OOPClass1.runtimeconfig.json
+C:\Users\OLALEKAN\source\repos\OOPClass1\bin\Debug\netcoreapp3.1\OOPClass1.runtimeconfig.dev.json
+C:\Users\OLALEKAN\source\repos\OOPClass1\bin\Debug\netcoreapp3.1\OOPClass1.dll
+C:\Users\OLALEKAN\source\repos\OOPClass1\bin\Debug\netcoreapp3.1\OOPClass1.pdb
+C:\Users\OLALEKAN\source\repos\OOPClass1\obj\Debug\netcoreapp3.1\OOPClass1.genruntimeconfig.cache
